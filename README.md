@@ -36,7 +36,7 @@
 
 <hr>
 
-<p align="center"><img src="https://i.redd.it/i9c34rsedzoa1.jpg" href="#" width="30%"></p>
+<p align="center"><img src="<!-- top-post -->" href="#" width="30%"></p>
 
 <hr>
 <details>
