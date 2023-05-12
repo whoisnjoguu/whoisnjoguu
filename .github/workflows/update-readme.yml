@@ -19,7 +19,9 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install praw
+        run: |
+          pip install praw
+          pip install python-dotenv
 
       - name: Run Python script
         run: python updater.py
