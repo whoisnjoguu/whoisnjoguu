@@ -22,6 +22,14 @@ jobs:
         run: |
           pip install praw
           pip install python-dotenv
+          
+      - name: Set environment variables
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          USER_AGENT: ${{ secrets.USER_AGENT }}
 
       - name: Run Python script
         run: python updater.py
