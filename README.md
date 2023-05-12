@@ -21,13 +21,13 @@
 </a>
 </p>
 
-<!-- ### Sample Projects
+### Sample Projects
 <a href="https://github.com/Njoguu/jikAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Njoguu&repo=jikAPI&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
 </a>
-<a href="https://github.com/Njoguu/Q-Lipa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Njoguu&repo=Q-Lipa&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
-</a> -->
+<a href="https://github.com/Njoguu/loyalty-program-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Njoguu&repo=loyalty-program-api&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
+</a>
 
 ### About Me 🤙
 - 🏫 [2016] My interest in programming began back in first year highschool when curiosity got the better part of me and I found myself yearning to learn more about how softwares worked.
@@ -36,7 +36,7 @@
 
 <hr>
 
-<p align="center"><img src="<!-- top-post -->" href="#" width="30%"></p>
+<!-- <p align="center"><img src="<!-- top-post -->" href="#" width="30%"></p> -->
 
 <hr>
 <details>
