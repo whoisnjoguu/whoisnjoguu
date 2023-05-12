@@ -36,9 +36,9 @@
 
 <hr>
 
-<!-- <p align="center"><img src="<!-- top-post -->" href="#" width="30%"></p> -->
+<!-- <p align="center"><img src="" href="#" width="30%"></p>  -->
 
-<hr>
+<!-- <hr> -->
 <details>
 <summary>Stats 📈</summary>
 <br>
