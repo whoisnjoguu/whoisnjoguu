@@ -1,3 +1,4 @@
+import io
 import os
 import praw
 from dotenv import load_dotenv
@@ -27,7 +28,9 @@ def get_top_post():
         score = post.score
         
 
-    return post.url
+    # Open the post.txt file in write mode and write the formatted string to it
+    with io.open('post.txt', 'w', encoding='utf8') as post_file:
+        post_file.write(post.url)
 
 
 if __name__ == '__main__':
