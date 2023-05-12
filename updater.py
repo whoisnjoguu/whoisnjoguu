@@ -6,11 +6,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Initialize a Reddit instance with your API credentials
-reddit = praw.Reddit(client_id=os.environ['client_id'],
-                     client_secret=os.environ['client_secret'],
-                     username=os.environ['username'],
-                     password=os.environ['password'],
-                     user_agent=os.environ['user_agent']
+reddit = praw.Reddit(client_id=os.environ['CLIENT_ID'],
+                     client_secret=os.environ['CLIENT_SECRET'],
+                     username=os.environ['USERNAME'],
+                     password=os.environ['PASSWORD'],
+                     user_agent=os.environ['USER_AGENT']
                     )
 
 def get_top_post():
