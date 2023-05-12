@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  schedule: 
+   - cron: '0 12 * * *'
+   
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install praw
+
+      - name: Run Python script
+        run: python updater.py
+        
+      - name: Update README
+        uses: github-actions-x/update-readme@v1
+        with:
+          file: 'post.txt'
+          replace: '<!-- top-post -->'
