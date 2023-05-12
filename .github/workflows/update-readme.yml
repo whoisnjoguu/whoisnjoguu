@@ -25,7 +25,7 @@ jobs:
         run: python updater.py
         
       - name: Update README
-        uses: github-actions-x/update-readme@v1
+        uses: Njoguu/update-readme@v1
         with:
           file: 'post.txt'
           replace: '<!-- top-post -->'
