@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/Njoguu">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alan+Njogu;Developer+%7C+BS+Student+%7C+Software+Development;Bots+%7C+Automation+%7C+APIs" alt="Typing SVG" />
 </a>
 <br/>
