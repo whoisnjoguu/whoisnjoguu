@@ -1,12 +1,11 @@
-
 <p align="center">
 <a href="https://github.com/Njoguu">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alan+Njogu;Developer+%7C+BS+Student+%7C+Software+Development;Bots+%7C+Automation+%7C+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alan+Njogu;Software+Developer+%7C+Backend;APIs+%7C+Postman+%7C+Backend+Development" alt="Typing SVG" />
 </a>
 <br/>
 
-<a href="https://alan-njogu.herokuapp.com">
-    <img src="https://img.shields.io/badge/Website-Portfolio-red?style=flat-square">
+<a href="https://www.postman.com/alannjogu">
+    <img src="https://img.shields.io/badge/Postman-F6BB43?style=flat-square&logo=Postman">
 </a>  
 <a href="https://www.linkedin.com/in/alan-njogu">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
@@ -29,16 +28,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Njoguu&repo=loyalty-program-api&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
 </a>
 
-### About Me 🤙
-- 🏫 [2016] My interest in programming began back in first year highschool when curiosity got the better part of me and I found myself yearning to learn more about how softwares worked.
-- 💻 Fast forward to present time, I build engaging Web and Mobile products and work on other Data-related and Open Source projects.
-- 👉 Want to connect? [LinkedIn](https://www.linkedin.com/in/alan-njogu/), [Twitter](https://twitter.com/@whoisnjoguu)!
-
 <hr>
 
-<!-- <p align="center"><img src="" href="#" width="30%"></p>  -->
-
-<!-- <hr> -->
 <details>
 <summary>Stats 📈</summary>
 <br>
