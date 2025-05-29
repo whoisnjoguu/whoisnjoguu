@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Njoguu">
+<a href="https://github.com/whoisnjoguu">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alan+Njogu;Software+Developer+%7C+Backend;APIs+%7C+Postman+%7C+Backend+Development" alt="Typing SVG" />
 </a>
 <br/>
@@ -15,16 +15,16 @@
 </a>
 
 <br/> 
-<a href="https://github.com/Njoguu">
+<a href="https://github.com/whoisnjoguu">
     <img src="https://github-stats-alpha.vercel.app/api?username=Njoguu&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
 
 ### Sample Projects
-<a href="https://github.com/Njoguu/jikAPI">
+<a href="https://github.com/whoisnjoguu/jikAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Njoguu&repo=jikAPI&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
 </a>
-<a href="https://github.com/Njoguu/loyalty-program-api">
+<a href="https://github.com/whoisnjoguu/loyalty-program-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Njoguu&repo=loyalty-program-api&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
 </a>
 
