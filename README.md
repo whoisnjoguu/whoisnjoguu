@@ -16,16 +16,16 @@
 
 <br/> 
 <a href="https://github.com/whoisnjoguu">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Njoguu&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=whoisnjoguu&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
 
 ### Sample Projects
 <a href="https://github.com/whoisnjoguu/jikAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Njoguu&repo=jikAPI&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whoisnjoguu&repo=jikAPI&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
 </a>
 <a href="https://github.com/whoisnjoguu/loyalty-program-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Njoguu&repo=loyalty-program-api&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whoisnjoguu&repo=loyalty-program-api&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
 </a>
 
 <hr>
@@ -35,8 +35,8 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Njoguu&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Njoguu&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Njoguu&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoisnjoguu&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whoisnjoguu&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whoisnjoguu&theme=dracula)
 
 </details>
