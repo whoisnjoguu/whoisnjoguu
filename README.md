@@ -30,6 +30,10 @@
 
 <hr>
 
+[![dhis2-cache-busting](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/dhis2-cache-busting)
+
+<hr>
+
 <details>
 <summary>Stats 📈</summary>
 <br>
